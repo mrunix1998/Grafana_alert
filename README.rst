@@ -1,0 +1,1 @@
+Created on 2020-03-25 using no-headache-django automatic project initializer.
